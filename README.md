@@ -43,7 +43,7 @@ This project is our Todo app as we should have completed it from the last projec
         });
 
         this.todoTitle = '';
-        this.todoId++;
+         
 
       }
     ```
