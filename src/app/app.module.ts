@@ -18,6 +18,7 @@ import { ConfirmationModalComponent } from './confirmation-modal/confirmation-mo
     NgbModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
+  entryComponents: [ConfirmationModalComponent]
 })
 export class AppModule { }
